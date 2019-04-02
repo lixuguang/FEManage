@@ -12,6 +12,7 @@ vue2 代码片段
 
 # 配置项
 ```
+// setting.json vscode配置文件
 {
     "workbench.startupEditor": "newUntitledFile",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe", \\ 自行配置自己的环境地址
